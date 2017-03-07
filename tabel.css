@@ -1,0 +1,13 @@
+.menu {background-image: url(menu.gif);}
+.keuze {vertical-align: top; font-family: Verdana; font-size: 14px; color: white; margin-left: 10px}
+.text {color: black; vertical-align: top; font-family: Verdana; font-size: 11px;}
+.vb {color: blue}
+.top {vertical-align: top;}
+.kop {vertical-align: top; font-size: 12px; font-weight: bold;}
+a {color: #037DA0; text-decoration: none; font-weight: bold;}
+a:hover{text-decoration: underline}
+.vb {color: #037DA0; font-family: Verdana; font-size: 10px;}
+.vbnew {color: #037DA0; font-family: Verdana; font-size: 10px; font-weight: bold;}
+.tablevb {color: black; font-family: Verdana; font-size: 10px;}
+.ot {color: black; font-family: Verdana; font-size: 10px; font-style: italic}
+.onder {font-family: Verdana; font-size: 7pt; text-align: right;}
